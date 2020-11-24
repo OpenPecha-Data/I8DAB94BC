@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS17947
   title: དབུ་མ་འཇུག་པ། མངོན་རྟོགས་རྒྱན། མཛོད། འདུལ་བ་དང་རྣམ་འགྲེལ་བཅས་ཀྱི་རྩ་བ།
-  volume: ''
+  volume:
+    7001a92248f04d45917a90cb6e3f571b:
+      image_group_id: I8LS17955
+      title: Volume 1 of dbu ma 'jug pa/ mngon rtogs rgyan/ mdzod/ 'dul ba dang rnam
+        'grel bcas kyi rtsa ba/
+      volume_number: 1
+      total_pages: 641
   author: ''
+ebook_metadata:
+  title: དབུ་མ་འཇུག་པ། མངོན་རྟོགས་རྒྱན། མཛོད། འདུལ་བ་དང་རྣམ་འགྲེལ་བཅས་ཀྱི་རྩ་བ།
+  author: ''
+  sku: P007894
+  cover: cover.jpg
+  layers:
+  - pagination
