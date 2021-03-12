@@ -5,11 +5,13 @@ source_metadata:
   title: དབུ་མ་འཇུག་པ། མངོན་རྟོགས་རྒྱན། མཛོད། འདུལ་བ་དང་རྣམ་འགྲེལ་བཅས་ཀྱི་རྩ་བ།
   author: ''
   volumes:
-    ee035b51f57d40fd8368822072bcbb05:
+    7001a92248f04d45917a90cb6e3f571b:
       image_group_id: I8LS17955
-      title: ''
+      title: Volume 1 of dbu ma 'jug pa/ mngon rtogs rgyan/ mdzod/ 'dul ba dang rnam
+        'grel bcas kyi rtsa ba/
       volume_number: 1
       total_pages: 641
+      base_file: v001.txt
 ebook_metadata:
   title: དབུ་མ་འཇུག་པ། མངོན་རྟོགས་རྒྱན། མཛོད། འདུལ་བ་དང་རྣམ་འགྲེལ་བཅས་ཀྱི་རྩ་བ།
   author: ''
