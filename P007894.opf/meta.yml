@@ -1,5 +1,7 @@
 id: P007894
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W8LS17947
   title: དབུ་མ་འཇུག་པ། མངོན་རྟོགས་རྒྱན། མཛོད། འདུལ་བ་དང་རྣམ་འགྲེལ་བཅས་ཀྱི་རྩ་བ།
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 641
       base_file: v001.txt
-ebook_metadata:
-  title: དབུ་མ་འཇུག་པ། མངོན་རྟོགས་རྒྱན། མཛོད། འདུལ་བ་དང་རྣམ་འགྲེལ་བཅས་ཀྱི་རྩ་བ།
-  author: ''
-  sku: P007894
-  cover: cover.jpg
-  layers:
-  - pagination
